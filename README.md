@@ -161,11 +161,10 @@ Let's build something amazing! 😄
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nacho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nacho-coding&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <h3>⚡ Recent GitHub Activity</h3>
+  
   <!--START_SECTION:waka-->
   <!--END_SECTION:waka-->
-  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs">
-    <img alt="Wakatime Dashboard" src="https://github.com/anuraghazra/github-readme-stats"/>
-  </a>
+  
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
