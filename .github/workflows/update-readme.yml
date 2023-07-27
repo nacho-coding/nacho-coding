@@ -1,7 +1,7 @@
 name: GitHub - Activity - Readme
 on:
   schedule:
-    - cron: "*/30 * * * *" # Runs every 30 minutes.
+    - cron: "*/5 * * * *" # Runs every 5 minutes.
 jobs:
   build:
     runs-on: ubuntu-latest
