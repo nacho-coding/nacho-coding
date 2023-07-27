@@ -145,8 +145,8 @@ Let's build something amazing! 😄
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><h3>🔥 Streak Stats</h3>
-    <img height=200 align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nacho's streak" src="https://streak-stats.demolab.com/?user=nacho-coding&theme=burnt-neon&date_format=j%20M%5B%20Y%5D&hide_border=true"/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><h3>🔥 Stats</h3>
+    <img height=200 align="center" alt="Nacho's streak" src="https://streak-stats.demolab.com/?user=nacho-coding&theme=burnt-neon&date_format=j%20M%5B%20Y%5D&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Nacho's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nacho-coding&show_icons=true&include_all_commits=true&count_private=true&theme=radical&bg_color=0D1117&title_color=FE25B1&text_color=01FED1&hide_border=true" height="192px"/>
@@ -160,7 +160,12 @@ Let's build something amazing! 😄
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nacho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nacho-coding&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
+  <h3>⚡ Recent GitHub Activity</h3>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  <a href="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs">
+    <img alt="Wakatime Dashboard" src="https://github.com/anuraghazra/github-readme-stats"/>
+  </a>
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
