@@ -154,7 +154,6 @@ Let's build something amazing! 😄
   <br/>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nacho's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nacho-coding&langs_count=8&layout=compact&theme=radical&bg_color=0D1117&title_color=FE25B1&text_color=01FED1&icon_color=F8D866&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
