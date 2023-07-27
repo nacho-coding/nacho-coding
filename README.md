@@ -147,7 +147,7 @@ Let's build something amazing! 😄
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nacho's streak" src="https://streak-stats.demolab.com/?user=nacho-coding&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nacho's streak" src="https://streak-stats.demolab.com/?user=nacho-coding&theme=burnt-neon&date_format=j%20M%5B%20Y%5D&hide_border=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io</a></p>
   </p>
@@ -171,11 +171,11 @@ Let's build something amazing! 😄
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
   
-  1. 🗣 Commented on [#544](https://github.com/DenverCoder1/github-readme-streak-stats/issues/544) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-  2. 🎉 Merged PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-  3. 💪 Opened PR [#233](https://github.com/DenverCoder1/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-  4. 🗣 Commented on [#231](https://github.com/DenverCoder1/readme-typing-svg/issues/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-  5. 🎉 Merged PR [#231](https://github.com/DenverCoder1/readme-typing-svg/pull/231) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+  1. 🗣 Commented on [#544](https://github.com/nacho-coding/github-readme-streak-stats/issues/544) in [DenverCoder1/github-readme-streak-stats](https://github.com/nacho-coding/github-readme-streak-stats)
+  2. 🎉 Merged PR [#233](https://github.com/nacho-coding/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/nacho-coding/readme-typing-svg)
+  3. 💪 Opened PR [#233](https://github.com/nacho-coding/readme-typing-svg/pull/233) in [DenverCoder1/readme-typing-svg](https://github.com/nacho-coding/readme-typing-svg)
+  4. 🗣 Commented on [#231](https://github.com/nacho-coding/readme-typing-svg/issues/231) in [DenverCoder1/readme-typing-svg](https://github.com/nacho-coding/readme-typing-svg)
+  5. 🎉 Merged PR [#231](https://github.com/nacho-coding/readme-typing-svg/pull/231) in [DenverCoder1/readme-typing-svg](https://github.com/nacho-coding/readme-typing-svg)
   <!--END_SECTION:activity-->
 
 </details>
