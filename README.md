@@ -176,7 +176,9 @@ Python   3 mins          ██████████████████�
   <h3>⚡ Recent GitHub Activity</h3>
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  
   <!--START_SECTION:activity-->
+  
   <!--END_SECTION:activity-->
 
 </details>
