@@ -159,11 +159,9 @@ Let's build something amazing! 😄
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Nacho's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nacho-coding&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  <h3>⚡ Coding time</h3>
   
-<!--START_SECTION:waka-->
+  <h3>⚡ Coding time</h3>
 
-<!--END_SECTION:waka-->
   <details>
     <summary>Details</summary>
     <a><img align="center" alt="Nacho's Activity Graph" src="https://github-readme-stats.vercel.app/api/wakatime?username=nachofp613\&layout=compact"/></a>
