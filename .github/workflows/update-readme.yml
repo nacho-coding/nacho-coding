@@ -1,20 +1,26 @@
-name: GitHub - Activity - Readme
+name: Update GitHub Activity
+
 on:
   schedule:
-    - cron: "*/5 * * * *" # Runs every 5 minutes.
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-    permissions:
-      contents: write
+    - cron: "*/5 * * * *"
 
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: nacho-coding/nacho-coding@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
         with:
-          COMMIT_MSG: "Updated README with recent activity"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
+          node-version: "14"
+
+      - name: Install dependencies
+        run: npm install axios
+
+      - name: Update README.md
+        run: node update_readme.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
