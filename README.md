@@ -167,7 +167,11 @@ Let's build something amazing! 😄
 Python   3 mins          █████████████████████████   100.00 %
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  <details>
+    <summary>Details</summary>
+    <a><img align="center" alt="Nacho's Activity Graph" src="https://github-readme-stats.vercel.app/api/wakatime?username=nachofp613\&layout=compact"/></a>
+  </details>
   
   <h3>⚡ Recent GitHub Activity</h3>
 
