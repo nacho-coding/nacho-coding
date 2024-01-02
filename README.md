@@ -164,7 +164,7 @@ Let's build something amazing! 😄
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 July 2023 - To: 30 December 2023
+From: 26 July 2023 - To: 31 December 2023
 
 Total Time: 52 hrs 44 mins
 
