@@ -164,20 +164,20 @@ Let's build something amazing! 😄
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 July 2023 - To: 23 May 2026
+From: 26 July 2023 - To: 24 May 2026
 
-Total Time: 322 hrs 20 mins
+Total Time: 325 hrs 56 mins
 
-Python            212 hrs 37 mins       ████████████████▒░░░░░░░░   65.29 %
-HTML              35 hrs 27 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-TypeScript        19 hrs 56 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-JavaScript        10 hrs 4 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-CSS               9 hrs 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
-YAML              8 hrs 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Bash              4 hrs 29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-Text              3 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-JSON              3 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-TeX               3 hrs 19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Python            214 hrs 53 mins       ████████████████▒░░░░░░░░   65.25 %
+HTML              35 hrs 53 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+TypeScript        19 hrs 56 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+JavaScript        10 hrs 6 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+CSS               9 hrs 34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+YAML              8 hrs 24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Bash              4 hrs 44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Text              3 hrs 54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JSON              3 hrs 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other             3 hrs 23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
